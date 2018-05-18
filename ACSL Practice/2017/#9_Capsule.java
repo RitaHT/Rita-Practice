@@ -1,6 +1,6 @@
 //check it tomorrow
 //Assumed time: 37mins
-//Actual time: 15mins
+//Actual Using time: 25mins
 //Point: COOPERATE!!
 
 import java.io.*;
