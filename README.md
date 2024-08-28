@@ -1,3 +1,5 @@
+This is my high school archive.
+------
 # Rita-Practice
 just beginning!
 
